@@ -46,8 +46,8 @@ $ npm start
 
 ## 📌 주요 프로젝트
 
-| 프로젝트 | 설명 | 상태 |
-|----------|------|------
+| 프로젝트 | 설명 |
+|----------|------|
 | [project-design](https://www.figma.com/design/8aBU1JPEZzQelXXQ1Q6X6C/OOTD-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%B4%88%EC%95%88?node-id=0-1&t=wBxIWzcezBUxPHcj-1) | Figma UI |
 | [project-frontend](https://github.com/HICC-PROJECT-CONTEST/frontend) | 웹 프론트엔드 애플리케이션 |
 | [project-backend](https://github.com/HICC-PROJECT-CONTEST/backend) | DRF 기반 API 서버 |
